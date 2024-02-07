@@ -7,15 +7,16 @@ title: RD
 description: Portfolio Copy Website 1
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-url:"https://rafidrd.github.io/portfolio-copy-site1/"
-baseurl: "https://rafidrd.github.io/portfolio-copy-site1/"
+baseurl: "/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: RD
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Developer
+typing_text: Noob
+typing_text: Okay bye
 # email: Your E-Mail address for the email button.
 email: email@example.com
 # For every social button you want to display, set your username or userid
