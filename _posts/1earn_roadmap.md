@@ -28,7 +28,7 @@ Below I will build a basic learning roadmap from the perspective of a security e
 
 If you are good at reverse engineering, pwn, mobile security or other security-related skills and provide relevant tutorials, blogs, notes, etc., you are welcome to submit a PR and build a roadmap together.
 
-![](./assets/img/roadmap.png)
+![](https://github.com/ffffffff0x/assets/img/roadmap.png)
 
 ## Getting Started
 
@@ -51,14 +51,14 @@ Basic skills are important
      - slightly
 
 - The use of git and github - Participating in more open source projects can quickly improve your development level
-     - [Git study notes](./1earn/Develop/version control/Git study notes.md)
+     - [Git study notes](https://github.com/ffffffff0x/1earn/Develop/version control/Git study notes.md)
 
 - Handling of data types
      -xml
      -json
 
 - Regular - Understand regular syntax
-     - [regex](./1earn/Develop/regex/regex.md)
+     - [regex](https://github.com/ffffffff0x/1earn/Develop/regex/regex.md)
 
 - python - Master the syntax, be able to write POC, and be able to modify exp as needed
      - slightly
@@ -83,17 +83,17 @@ Basic skills are important
 ### Linux operation and maintenance
 
 - What is Linux
-     - [Distribution](./1earn/Integrated/Linux/notes/distribution.md)
-     - [Process](./1earn/Integrated/Linux/notes/process.md)
+     - [Distribution](https://github.com/ffffffff0x/1earn/Integrated/Linux/notes/distribution.md)
+     - [Process](https://github.com/ffffffff0x/1earn/Integrated/Linux/notes/process.md)
 
 - Linux basic commands
-     - [Speed-Linux](./1earn/Integrated/Linux/Speed-Linux.md)
+     - [Speed-Linux](https://github.com/ffffffff0x/1earn/Integrated/Linux/Speed-Linux.md)
 
 - Linux service construction - At least learn how to build httpd and nginx
-     - [Power-Linux](./1earn/Integrated/Linux/Power-Linux.md)
+     - [Power-Linux](https://github.com/ffffffff0x/1earn/Integrated/Linux/Power-Linux.md)
 
 - Docker usage - must be mastered, it can save you a lot of time
-     - [Speed-Docker](./1earn/Integrated/virtualization/Docker/Speed-Docker.md)
+     - [Speed-Docker](https://github.com/ffffffff0x/1earn/Integrated/virtualization/Docker/Speed-Docker.md)
 
 ### Network knowledge
 
@@ -103,10 +103,10 @@ Basic skills are important
 ### Windows Server
 
 - Commonly used commands under Windows
-     - [Speed-Win](./1earn/Integrated/Windows/Speed-Win.md)
+     - [Speed-Win](https://github.com/ffffffff0x/1earn/Integrated/Windows/Speed-Win.md)
 
 - What can Windows server do?
-     - [Windows Basic Service Construction](./1earn/Integrated/Windows/Experimental/Windows Basic Service Construction.md)
+     - [Windows Basic Service Construction](https://github.com/ffffffff0x/1earn/Integrated/Windows/Experimental/Windows Basic Service Construction.md)
 
 ---
 
@@ -119,10 +119,10 @@ Basic skills are important
      - slightly
 
 - web basic vulnerabilities
-     - [Web_Generic](./1earn/Security/RedTeam/WebSecurity/Web_Generic/Web_Generic.md)
+     - [Web_Generic](https://github.com/ffffffff0x/1earn/Security/RedTeam/WebSecurity/Web_Generic/Web_Generic.md)
 
 - web logic vulnerability
-     - [IDOR](./1earn/Security/RedTeam/WebSecurity/IDOR.md)
+     - [IDOR](https://github.com/ffffffff0x/1earn/Security/RedTeam/WebSecurity/IDOR.md)
 
 - Shooting Range - If you have free time, you can practice on the shooting range
      - [Range](https://github.com/No-Github/1earn/tree/master/1earn/Security/RedTeam/Web%E5%AE%89%E5%85%A8/%E9%9D%B6% E5%9C%BA)
@@ -130,13 +130,13 @@ Basic skills are important
 ## webAdvanced
 
 - Various common vulnerability exploits
-     - [BS-Exploits](./1earn/Security/RedTeam/WebSecurity/BS-Exploits.md)
+     - [BS-Exploits](https://github.com/ffffffff0x/1earn/Security/RedTeam/WebSecurity/BS-Exploits.md)
 
 -OOB
-     - [OOB](./1earn/Security/RedTeam/WebSecurity/Web_Tricks/OOB.md)
+     - [OOB](https://github.com/ffffffff0x/1earn/Security/RedTeam/WebSecurity/Web_Tricks/OOB.md)
 
 -JWT
-     - [JWT Security](./1earn/Security/RedTeam/Web Security/Web_Tricks/JWT Security.md)
+     - [JWT Security](https://github.com/ffffffff0x/1earn/Security/RedTeam/Web Security/Web_Tricks/JWT Security.md)
 
 ## Code audit
 
@@ -149,31 +149,31 @@ Basic skills are important
 ### linux
 
 - linux permissions, files
-     - [Certification](./1earn/Integrated/Linux/notes/certification.md)
-     - [File](./1earn/Integrated/Linux/Notes/File.md)
+     - [Certification](https://github.com/ffffffff0x/1earn/Integrated/Linux/notes/certification.md)
+     - [File](https://github.com/ffffffff0x/1earn/Integrated/Linux/Notes/File.md)
 
 - Linux privilege escalation and vulnerability exploitation
-     - [OS-Exploits](./1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#linux)
+     - [OS-Exploits](https://github.com/ffffffff0x/1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#linux)
 
 - linux lol
-     - [Linux Security](./1earn/Security/RedTeam/OS Security/Linux Security.md#lol)
+     - [Linux Security](https://github.com/ffffffff0x/1earn/Security/RedTeam/OS Security/Linux Security.md#lol)
 
 ### windows
 
 - windows certification system
-     - [Certification](./1earn/Integrated/Windows/notes/certification.md)
+     - [Certification](https://github.com/ffffffff0x/1earn/Integrated/Windows/notes/certification.md)
 
 - Windows privilege escalation and vulnerability exploitation
-     - [OS-Exploits](./1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#windows)
+     - [OS-Exploits](https://github.com/ffffffff0x/1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#windows)
 
 - windows lol
-     - [Windows-LOL](./1earn/Security/RedTeam/OSSecurity/Experimental/Windows-LOL.md)
+     - [Windows-LOL](https://github.com/ffffffff0x/1earn/Security/RedTeam/OSSecurity/Experimental/Windows-LOL.md)
 
 - windows rdp exploit
-     - [Windows Security](./1earn/Security/RedTeam/OS Security/Windows Security.md#rdp)
+     - [Windows Security](https://github.com/ffffffff0x/1earn/Security/RedTeam/OS Security/Windows Security.md#rdp)
 
 - windows credential capture
-     - [Windows Security](./1earn/Security/RedTeam/OS Security/Windows Security.md#certification)
+     - [Windows Security](https://github.com/ffffffff0x/1earn/Security/RedTeam/OS Security/Windows Security.md#certification)
 
 ---
 
@@ -182,51 +182,51 @@ Basic skills are important
 ### Privilege Elevation
 
 - linux privilege escalation
-     - [OS-Exploits](./1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#linux)
+     - [OS-Exploits](https://github.com/ffffffff0x/1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#linux)
 
 - windows privilege escalation
-     - [OS-Exploits](./1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#windows)
+     - [OS-Exploits](https://github.com/ffffffff0x/1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#windows)
 
 - Third-party software privilege escalation
-     - [Elevation of Privilege](./1earn/Security/RedTeam/Post-Exploitation/Elevation of Privilege.md)
+     - [Elevation of Privilege](https://github.com/ffffffff0x/1earn/Security/RedTeam/Post-Exploitation/Elevation of Privilege.md)
 
 ### Permission maintenance
 
 - Various webshells
-     - [Permission maintenance](./1earn/Security/RedTeam/Post-infiltration/Permission maintenance.md#web)
+     - [Permission maintenance](https://github.com/ffffffff0x/1earn/Security/RedTeam/Post-infiltration/Permission maintenance.md#web)
 
 - Windows permission maintenance
-     - [Permission maintenance](./1earn/Security/RedTeam/Post-infiltration/Permission maintenance.md#win)
+     - [Permission maintenance](https://github.com/ffffffff0x/1earn/Security/RedTeam/Post-infiltration/Permission maintenance.md#win)
 
 - Linux permission maintenance
-     - [Permission maintenance](./1earn/Security/RedTeam/Post-infiltration/Permission maintenance.md#linux)
+     - [Permission maintenance](https://github.com/ffffffff0x/1earn/Security/RedTeam/Post-infiltration/Permission maintenance.md#linux)
 
 - Various C2, anti-kill
-     - [Permission maintenance](./1earn/Security/RedTeam/Post-infiltration/Permission maintenance.md#c2-rat)
+     - [Permission maintenance](https://github.com/ffffffff0x/1earn/Security/RedTeam/Post-infiltration/Permission maintenance.md#c2-rat)
 
 ### windows domain
 
 - What is a work group, a domain, and how to build a domain environment
-     - [Workgroup](./1earn/Integrated/Windows/notes/workgroup.md)
-     - [domain](./1earn/Integrated/Windows/notes/domain.md)
-     - [Windows domain setup](./1earn/Integrated/Windows/Experimental/Windows domain setup.md)
+     - [Workgroup](https://github.com/ffffffff0x/1earn/Integrated/Windows/notes/workgroup.md)
+     - [domain](https://github.com/ffffffff0x/1earn/Integrated/Windows/notes/domain.md)
+     - [Windows domain setup](https://github.com/ffffffff0x/1earn/Integrated/Windows/Experimental/Windows domain setup.md)
 
 - Kerberos
-     - [Certification](./1earn/Integrated/Windows/Notes/Certification.md#Domain Certification)
+     - [Certification](https://github.com/ffffffff0x/1earn/Integrated/Windows/Notes/Certification.md#Domain Certification)
 
 - Domain credentials capture
-     - [Windows Security](./1earn/Security/RedTeam/OS Security/Windows Security.md# domain)
+     - [Windows Security](https://github.com/ffffffff0x/1earn/Security/RedTeam/OS Security/Windows Security.md# domain)
 
 - Domain control privilege escalation
-     - [OS-Exploits](./1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#domain)
+     - [OS-Exploits](https://github.com/ffffffff0x/1earn/Security/RedTeam/OSSecurity/OS-Exploits.md#domain)
 
 -pth/k/t
-     - [PTH](./1earn/Security/RedTeam/OS Security/Windows Security.md#pth)
-     - [PTT](./1earn/Security/RedTeam/OS Security/Windows Security.md#ptt)
+     - [PTH](https://github.com/ffffffff0x/1earn/Security/RedTeam/OS Security/Windows Security.md#pth)
+     - [PTT](https://github.com/ffffffff0x/1earn/Security/RedTeam/OS Security/Windows Security.md#ptt)
 
 -Exchange
-     - [Exchange Build](./1earn/Integrated/Windows/Experiment/Exchange Build.md)
-     - [Exchange](./1earn/Security/RedTeam/Post-Exploration/Experimental/Exchange.md)
+     - [Exchange Build](https://github.com/ffffffff0x/1earn/Integrated/Windows/Experiment/Exchange Build.md)
+     - [Exchange](https://github.com/ffffffff0x/1earn/Security/RedTeam/Post-Exploration/Experimental/Exchange.md)
 
 ---
 
@@ -237,23 +237,23 @@ Basic skills are important
 ### analytical skills
 
 - linux logs, information
-     - [Log](./1earn/Integrated/Linux/Notes/Log.md)
-     - [Information](./1earn/Integrated/Linux/Notes/Information.md)
+     - [Log](https://github.com/ffffffff0x/1earn/Integrated/Linux/Notes/Log.md)
+     - [Information](https://github.com/ffffffff0x/1earn/Integrated/Linux/Notes/Information.md)
 
 - windows logs, messages
-     - [Log](./1earn/Integrated/Windows/Notes/Log.md)
-     - [Message](./1earn/Integrated/Windows/Notes/Message.md)
+     - [Log](https://github.com/ffffffff0x/1earn/Integrated/Windows/Notes/Log.md)
+     - [Message](https://github.com/ffffffff0x/1earn/Integrated/Windows/Notes/Message.md)
 
 - Malicious file analysis
-     - [Analysis](./1earn/Security/BlueTeam/Analysis.md)
+     - [Analysis](https://github.com/ffffffff0x/1earn/Security/BlueTeam/Analysis.md)
 
 ### Forensic Technology
 
 - Document forensics
-     - [Forensic](./1earn/Security/BlueTeam/Forensic.md#File Forensic)
+     - [Forensic](https://github.com/ffffffff0x/1earn/Security/BlueTeam/Forensic.md#File Forensic)
 
 - Memory forensics
-     - [Memory Forensics](./1earn/Security/BlueTeam/Notes/Memory Forensics.md)
+     - [Memory Forensics](https://github.com/ffffffff0x/1earn/Security/BlueTeam/Notes/Memory Forensics.md)
 
 - Traffic Analysis
-     - [Traffic Analysis](./1ear
+     - [Traffic Analysis](https://github.com/ffffffff0x/1ear
